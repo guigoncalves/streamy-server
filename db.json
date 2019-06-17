@@ -1,0 +1,33 @@
+{
+  "streams": [
+    {
+      "title": "123",
+      "description": "12513",
+      "id": 1
+    },
+    {
+      "title": "My stream",
+      "description": "created by me!",
+      "userId": "109330999910711031491",
+      "id": 2
+    },
+    {
+      "title": "My stream",
+      "description": "created by me!",
+      "userId": "109330999910711031491",
+      "id": 3
+    },
+    {
+      "title": "teste",
+      "description": "test",
+      "userId": "109330999910711031491",
+      "id": 4
+    },
+    {
+      "title": "teste refactor222",
+      "description": "refactor teste",
+      "userId": "109330999910711031491",
+      "id": 5
+    }
+  ]
+}
